@@ -380,7 +380,7 @@
 - [x] 嵯峨野 博之
 - [ ] 佐藤 政志
 - [x] 近井 良二
-- [x] 寺尾 太郎 :large_blue_circle: ![](//www.facebook.com/favicon.ico)
+- [x] 寺尾 太郎 :large_blue_circle: ![][fb]
 - [x] 戸沢 潤一
 - [x] 仲川 武志
 - [x] 中山 恭宏
@@ -508,3 +508,5 @@
 
 # 転校
 - [x] 守谷 あゆみ
+
+[fb]: https://www.facebook.com/favicon.ico
