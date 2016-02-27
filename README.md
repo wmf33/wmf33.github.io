@@ -380,7 +380,7 @@
 - [x] 嵯峨野 博之
 - [ ] 佐藤 政志
 - [x] 近井 良二
-- [x] 寺尾 太郎 :large_blue_circle: ![](fb.svg)
+- [x] 寺尾 太郎 :large_blue_circle: ![](//wmf33.github.io/fb.svg)
 - [x] 戸沢 潤一
 - [x] 仲川 武志
 - [x] 中山 恭宏
