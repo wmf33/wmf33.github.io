@@ -1,6 +1,6 @@
 ### リストについて
 - 内容を随時アップデートします．
-  - なにかあれば [メール](taro.terao@gamil.com)でも[facebook](https://www.facebook.com/taro.terao)でもお好きな方法でご連絡ください．
+  - なにかあれば [メール](mailto:taro.terao@gamil.com)でも[facebook](https://www.facebook.com/taro.terao)でもお好きな方法でご連絡ください．
 - 姓名の表記は卒業時のものです．
   - 間違いに気づいた方がいたら教えてください．
 - 記号の意味
