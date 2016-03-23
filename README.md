@@ -307,13 +307,13 @@
 - [x] 西野 淳
 - [x] 波木井 正親
 - [ ] 二見 孝志
-- [ ] 三橋 和浩 :large_blue_circle:
+- [x] 三橋 和浩 :large_blue_circle:
 - [x] 牟田 政彦
 - [ ] 村上 弘宣
 - [ ] 村田 淳也
 
 - [x] 阿部 早苗
-- [ ] 新井 伸子 :large_blue_diamond:
+- [x] 新井 伸子 :large_blue_diamond:
 - [x] 新井 瑞江
 - [ ] 石川 馨子
 - [ ] 市川 照美
