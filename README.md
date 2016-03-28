@@ -17,7 +17,7 @@
 - [ ] 伊藤 勝彦
 - [ ] 伊東 裕司
 - [ ] 今泉 康之
-- [x] 加藤 清彦
+- [x] 加藤 清人 :large_blue_diamond:
 - [ ] 栗山 浩
 - [ ] 小玉 明
 - [x] 高田 和久 :large_blue_circle:
