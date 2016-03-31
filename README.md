@@ -466,7 +466,7 @@
 - [x] 柴田 恵利
 - [ ] 鈴木 まゆみ
 - [ ] 中川西富士子
-- [x] 仁藤 康子
+- [x] 仁藤 康子 :large_blue_circle:
 - [x] 沼沢 智子 :large_blue_circle:
 - [x] 樋口 康子 ![][fb] :large_blue_circle:
 - [x] 平野 みゆき
