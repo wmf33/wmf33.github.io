@@ -527,7 +527,7 @@
 - [x] 田上 稔 3-3
 - [x] 原田 勝利 3-4
 - [ ] 椎名 子 3-5
-- [x] 牧迫 良文 3-6
+- [x] 牧迫 良文 3-6 :large_blue_diamond:
 - [x] 桜井 正元 3-7 :large_blue_diamond:
 - [x] 松野 保 3-8 :large_blue_diamond:
 - [x] 小宮山 健治 3-9
