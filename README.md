@@ -211,7 +211,7 @@
 - [ ] 佐藤 実
 - [x] 塩崎 修
 - [ ] 猊倉 正樹
-- [ ] 関口 勉 :large_blue_circle:
+- [x] 関口 勉 :large_blue_circle:
 - [ ] 田中 誠
 - [ ] 新倉 達也
 - [ ] 宝利 誠
@@ -400,7 +400,7 @@
 - [ ] 根本 和男
 - [x] 原 敏之 ![][fb] :large_blue_circle:
 - [ ] 藤崎 義人
-- [x] 星野 雅俊
+- [x] 星野 雅俊 :large_blue_diamond:
 - [ ] 松井 尚彦
 - [ ] 山口 正一郎
 - [x] 吉川 雅則 ![][fb] :large_blue_circle:
@@ -530,7 +530,7 @@
 - [x] 牧迫 良文 3-6 :large_blue_diamond:
 - [x] 桜井 正元 3-7 :large_blue_diamond:
 - [x] 松野 保 3-8 :large_blue_diamond:
-- [x] 小宮山 健治 3-9
+- [x] 小宮山 健治 3-9 :large_blue_diamond:
 - [ ] 高橋 益美 3-10
 - [x] 宮武 崇 3-11
 
