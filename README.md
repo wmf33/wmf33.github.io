@@ -301,7 +301,7 @@
 - [x] 佐々木 一隆
 - [x] 佐藤 隆
 - [x] 三條 義浩 :large_blue_circle:
-- [x] 島田 敏次 ![][fb]
+- [x] 島田 敏次 ![][fb] :large_blue_diamond:
 - [ ] 恒松 法行
 - [ ] 徳永 弘樹
 - [x] 西野 淳
@@ -387,7 +387,7 @@
 - [ ] 大和田 修
 - [x] 鹿島 俊章
 - [ ] 菊池 和夫
-- [x] 後藤 義輝 ![][fb]
+- [x] 後藤 義輝 ![][fb] :large_blue_diamond:
 - [x] 小林 秀雄 ![][fb] :large_blue_circle:
 - [ ] 嵯峨野 博之
 - [ ] 佐藤 政志
@@ -484,7 +484,7 @@
 - [ ] 斉藤 正美
 - [ ] 佐藤 茂之
 - [ ] 嶋崎 明彦
-- [x] 菅野 猛仁
+- [x] 菅野 猛仁 :large_blue_diamond:
 - [ ] 滝沢 剛
 - [ ] 竹山 周一
 - [ ] 対馬 清志
@@ -492,7 +492,7 @@
 - [ ] 二宮 忍
 - [x] 沼沢 孝 :large_blue_circle:
 - [x] 丸岡 英樹 ![][fb] :large_blue_circle:
-- [x] 森岡 武彦
+- [x] 森岡 武彦 :large_blue_diamond:
 - [ ] 渡辺 満
 - [x] 和田 精一 :large_blue_circle:
 
