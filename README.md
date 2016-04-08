@@ -11,6 +11,8 @@
     - つまり同窓会に出席確定のみなさんです．確定者が多ければ，参加者がより増えると思います．[Peatix](http://wmf33-2016.peatix.com)でも銀行振込でもお早めの登録を歓迎します．どうかよろしくお願いします．
   - ![][fb] 33期のfacebookグループのメンバー
     - シークレットグループです．同窓会当日の写真とかをここでシェアしたりできますね．ぜひ，ご参加ください．
+  - :large_blue_diamond: 会費の納入はまだだけど出席するよというみなさん．
+  - :large_orange_diamond: 一次会は都合がつかず．でも二次会は参加するよというみなさん．
 
 # 3-1
 - [ ] 安藤 光男
@@ -89,18 +91,18 @@
 - [x] 黒沼 悦子 ![][fb] :large_blue_circle:
 - [x] 小口 郁江 :large_blue_circle:
 - [x] 小西 恵美 :large_blue_circle:
-- [x] 坂戸 久美子
+- [x] 坂戸 久美子 :large_orange_diamond:
 - [x] 菅原 美智子
 - [ ] 武田 美香
 - [ ] 田中 さとみ
 - [x] 筒井 洋子 ![][fb] :large_blue_circle:
 - [x] 常世田 悦子
-- [x] 野々山 恵美 ![][fb]
+- [x] 野々山 恵美 ![][fb] :large_orange_diamond:
 - [x] 土方 明子 ![][fb]
 - [x] 福井 明美 :large_blue_circle:
 - [x] 丸山 ことじ
 - [x] 村上 くに子
-- [x] 森山 寛子
+- [x] 森山 寛子 :large_orange_diamond:
 - [ ] 山岸 史江
 - [x] 井上 尚美 ![][fb] :large_blue_circle:
 
@@ -351,7 +353,7 @@
 - [ ] 長尾 大介
 - [x] 中山 泰宏
 - [ ] 長山 義彦
-- [x] 根本 昌彦 ![][fb]
+- [x] 根本 昌彦 ![][fb] :large_orange_diamond:
 - [ ] 張替 和宏
 - [x] 升本 忠宏 :large_blue_circle:
 - [x] 武藤 直 ![][fb] :large_blue_circle:
@@ -382,7 +384,7 @@
 
 # 3-9
 - [ ] 相沢 寛
-- [x] 阿部 敦
+- [x] 阿部 敦 :large_orange_diamond:
 - [x] 氏家 秀光
 - [ ] 大和田 修
 - [x] 鹿島 俊章
@@ -395,7 +397,7 @@
 - [x] 寺尾 太郎 ![][fb] :large_blue_circle:
 - [ ] 戸沢 潤一
 - [x] 仲川 武志
-- [x] 中山 恭宏 ![][fb]
+- [x] 中山 恭宏 ![][fb] :large_orange_diamond:
 - [x] 西川 謙二
 - [ ] 根本 和男
 - [x] 原 敏之 ![][fb] :large_blue_circle:
@@ -433,7 +435,7 @@
 - [ ] 菊池 英樹
 - [ ] 小暮 弘英
 - [x] 佐藤 勝徳
-- [x] 佐藤 謙二
+- [x] 佐藤 謙二 :large_orange_diamond:
 - [ ] 島袋 寿政
 - [ ] 寺内 康行
 - [ ] 中野 健一
