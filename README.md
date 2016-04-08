@@ -469,7 +469,7 @@
 - [x] 仁藤 康子 :large_blue_circle:
 - [x] 沼沢 智子 :large_blue_circle:
 - [x] 樋口 康子 ![][fb] :large_blue_circle:
-- [x] 平野 みゆき
+- [x] 平野 みゆき :large_blue_circle:
 - [x] 和田 伊津子
 
 # 3-11
