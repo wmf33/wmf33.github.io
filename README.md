@@ -60,7 +60,7 @@
 - [x] 吉岡 和江 :large_blue_circle:
 
 # 3-2
-- [x] 秋吉 隆浩
+- [x] 秋吉 隆浩 :large_orange_diamond:
 - [x] 荒川 賢志
 - [ ] 石川 洋一
 - [ ] 石原 明敏
@@ -154,9 +154,9 @@
 
 # 3-4
 - [x] 荒井 智広
-- [x] 伊佐野 武志
+- [x] 伊佐野 武志 :large_orange_diamond:
 - [x] 石塚 敏浩
-- [x] 尾沢 秀之
+- [x] 尾沢 秀之 :large_blue_diamond:
 - [ ] 長谷川 朝之
 - [ ] 喜楽 昭彦
 - [ ] 坂本 義仁
@@ -402,7 +402,7 @@
 - [ ] 根本 和男
 - [x] 原 敏之 ![][fb] :large_blue_circle:
 - [ ] 藤崎 義人
-- [x] 星野 雅俊 :large_blue_diamond:
+- [x] 星野 雅俊 :large_orange_diamond:
 - [ ] 松井 尚彦
 - [ ] 山口 正一郎
 - [x] 吉川 雅則 ![][fb] :large_blue_circle:
