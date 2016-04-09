@@ -338,7 +338,7 @@
 
 # 3-8
 - [x] 穴沢 和則 :large_blue_circle:
-- [x] 石川 和男 :large_blue_circle:
+- [x] 石川 和男 ![][fb] :large_blue_circle:
 - [x] 遠藤 充彦
 - [ ] 岡村 清隆
 - [ ] 小野沢 高弘
