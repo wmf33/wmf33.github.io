@@ -126,7 +126,7 @@
 - [x] 原口 裕児 ![][fb]
 - [ ] 原田 保巳
 - [ ] 平沢 俊裕
-- [x] 藤巻 康一 ![][fb] :large_blue_diamond:
+- [x] 藤巻 康一 ![][fb] :large_blue_circle:
 - [x] 古田 文男
 - [ ] 前田 浩之
 
