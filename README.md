@@ -261,7 +261,7 @@
 - [ ] 谷 浩
 - [x] 塚本 学 :large_blue_circle:
 - [x] 永井 信
-- [x] 西 秀昭
+- [x] 西 秀昭 :large_blue_circle:
 - [ ] 土方 一泰
 - [ ] 布施 正
 - [x] 牧野 義治
