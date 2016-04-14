@@ -303,7 +303,7 @@
 - [x] 佐々木 一隆
 - [x] 佐藤 隆
 - [x] 三條 義浩 :large_blue_circle:
-- [x] 島田 敏次 ![][fb] :large_blue_diamond:
+- [x] 島田 敏次 ![][fb] :large_blue_circle:
 - [ ] 恒松 法行
 - [ ] 徳永 弘樹
 - [x] 西野 淳
@@ -371,7 +371,7 @@
 - [x] 白鳥 民江
 - [x] 谷口 弘子
 - [x] 地原 真理子 :large_blue_circle:
-- [x] 内藤 久子
+- [x] 内藤 久子 :large_orange_diamond:
 - [x] 内藤 優美子
 - [x] 長尾 久美 :large_blue_circle:
 - [x] 原島 恵子
