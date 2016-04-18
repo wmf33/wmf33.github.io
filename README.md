@@ -547,6 +547,6 @@
 - [ ] 渡辺 一郎
 - [ ] 高橋 美恵子
 
-- [x] 長村 信幸 1-9
+- [x] 長村 信幸 1-9 :large_blue_diamond:
 
 [fb]: https://www.facebook.com/favicon.ico
