@@ -302,7 +302,7 @@
 - [x] 榊枝 佳一 ![][fb]
 - [x] 佐々木 一隆
 - [x] 佐藤 隆
-- [x] 三條 義浩 :large_blue_circle:
+- [x] 三條 義浩
 - [x] 島田 敏次 ![][fb] :large_blue_circle:
 - [ ] 恒松 法行
 - [ ] 徳永 弘樹
