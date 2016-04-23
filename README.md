@@ -73,7 +73,7 @@
 - [ ] 佐藤 弘一
 - [ ] 下山 秀二
 - [x] 高橋 則広 :large_blue_circle:
-- [x] 手島 満春 ![][fb] :large_blue_circle:
+- [x] 手島 満春 ![][fb] :large_blue_circle:.
 - [ ] 中田 洋
 - [ ] 浜野 紀之
 - [x] 深川 勝人 ![][fb]
@@ -88,7 +88,7 @@
 - [ ] 及川 典子
 - [x] 大村 昭子
 - [x] 勝本 弘子 ![][fb]
-- [x] 黒沼 悦子 ![][fb] :large_blue_circle:
+- [x] 黒沼 悦子 ![][fb] :large_blue_circle:.
 - [x] 小口 郁江 :large_blue_circle:
 - [x] 小西 恵美 :large_blue_circle:
 - [x] 坂戸 久美子 :large_orange_diamond:
@@ -107,7 +107,7 @@
 - [x] 井上 尚美 ![][fb] :large_blue_circle:
 
 # 3-3
-- [x] 秋草 順夫 ![][fb] :large_blue_circle:
+- [x] 秋草 順夫 ![][fb] :large_blue_circle:.
 - [ ] 安部 幸洋
 - [ ] 遠藤 靖
 - [ ] 大野 誠二
@@ -126,7 +126,7 @@
 - [x] 原口 裕児 ![][fb]
 - [ ] 原田 保巳
 - [ ] 平沢 俊裕
-- [x] 藤巻 康一 ![][fb] :large_blue_circle:
+- [x] 藤巻 康一 ![][fb] :large_blue_circle:.
 - [x] 古田 文男
 - [ ] 前田 浩之
 
@@ -285,7 +285,7 @@
 - [ ] 長岡 美由紀
 - [ ] 原 いずみ
 - [ ] 深沢 泰代
-- [x] 宮田 巳佐代 ![][fb] :large_blue_circle:
+- [x] 宮田 巳佐代 ![][fb] :large_blue_circle:.
 - [x] 柳沢 麻理 ![][fb]
 - [ ] 横山 裕子
 - [x] 渡部 厚子 ![][fb]
@@ -468,7 +468,7 @@
 - [x] 柴田 恵利
 - [ ] 鈴木 まゆみ
 - [ ] 中川西富士子
-- [x] 仁藤 康子 :large_blue_circle:
+- [x] 仁藤 康子 :large_blue_circle:.
 - [x] 沼沢 智子 :large_blue_circle:
 - [x] 樋口 康子 ![][fb] :large_blue_circle:
 - [x] 平野 みゆき
