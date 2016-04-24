@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width">
+<meta charset="UTF-8">
+<title>川崎市立西中原中学校第33期同窓会</title>
+<style>
+h2 { page-break-before: always; }
+table tr:nth-child(2n) {    /* 偶数行 */
+   background-color: white;
+}
+table tr:nth-child(2n+1) {  /* 奇数行 */
+   background-color: #e0e0e0;
+}
+table tr:nth-child(1) {     /* 先頭行のみ */
+   background-color: black;
+   color: white;
+}
+</style>
+<script>
+parseFirst = a => (
+  a === ':large_blue_circle:'
+  ? '銀行振込'
+  : a === ':large_blue_circle:.'
+  ? 'Peatix'
+  : a === '::large_blue_diamond'
+  ? '参加予定'
+  : ''
+)
+parseSecond = a => (
+  a === ':large_orange_diamond:'
+  ? '参加予定'
+  : ''
+)
+parseItem = a => {
+  a = a.slice(6).split(' ![][fb]').join('').split(' ')
+  return {
+    name: a.slice(0, 2).join(' '),
+    first: parseFirst(a[2]),
+    second: parseSecond(a[2])
+  }
+}
+proc = (flag, b) => {
+  var x, h2 = document.createElement('h2')
+    , table = document.createElement('table')
+    , thead = document.createElement('thead')
+    , tbody = document.createElement('tbody')
+  h2.textContent = [b.title, flag ? '男子' : '女子'].join(' ')
+  x = thead.appendChild(document.createElement('tr'))
+  ;['氏名', '一次会精算', '一次会受付', '二次会精算', '二次会受付', '備考'].forEach(a => {
+    x.appendChild(document.createElement('th')).textContent = a
+  })
+  b[flag ? 'male' : 'female'].forEach(person => {
+    x = tbody.appendChild(document.createElement('tr'))
+
+    ;['name', 'first', '', 'second', '_second', ''].forEach(a => {
+      x.appendChild(document.createElement('td')).textContent = person[a] || ''
+    })
+  })
+  table.appendChild(thead)
+  table.appendChild(tbody)
+  document.body.appendChild(h2)
+  document.body.appendChild(table)
+}
+fetch('/README.md')
+.then(a => a.text())
+.then(a => a.split('\n\n# ').slice(1))
+.then(a => a.slice(0, 11).map(b => {
+  var [m, f] = b.split('\n\n').map(a => a.split('\n'))
+  return {
+    title: m[0],
+    male: m.slice(1).map(parseItem),
+    female: f.map(parseItem)
+  }
+}))
+.then(a => {
+  a.forEach(b => {
+    proc(true, b)
+    proc(false, b)
+  })
+})
+</script>
