@@ -16,15 +16,18 @@ table thead tr {
    background-color: black;
    color: white;
 }
+table th,td:last-child {
+  width: 100%;
+}
 </style>
 <script>
 parseFirst = a => (
   a === ':large_blue_circle:'
-  ? '銀行振込'
+  ? '銀行振込 ✓'
   : a === ':large_blue_circle:.'
-  ? 'Peatix'
-  : a === '::large_blue_diamond'
-  ? '参加予定'
+  ? 'Peatix ✓'
+  : a === ':large_blue_diamond:'
+  ? '当日'
   : ''
 )
 parseSecond = a => (
