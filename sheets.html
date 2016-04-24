@@ -21,21 +21,21 @@ th,td:last-child {
 }
 </style>
 <script>
-parseFirst = a => (
-  a === ':large_blue_circle:'
+function parseFirst(a) {
+  return a === ':large_blue_circle:'
   ? '銀行振込 ✓'
   : a === ':large_blue_circle:.'
   ? 'Peatix ✓'
   : a === ':large_blue_diamond:'
   ? '当日'
   : ''
-)
-parseSecond = a => (
-  a === ':large_orange_diamond:'
+}
+function parseSecond(a) {
+  return a === ':large_orange_diamond:'
   ? '参加予定'
   : ''
-)
-parseItem = a => {
+}
+function parseItem(a) {
   a = a.slice(6).split(' ![][fb]').join('').split(' ')
   return {
     name: a.slice(0, 2).join(' '),
@@ -43,20 +43,20 @@ parseItem = a => {
     second: parseSecond(a[2])
   }
 }
-proc = (flag, b) => {
+function proc(flag, b) {
   var x, h2 = document.createElement('h2')
     , table = document.createElement('table')
     , thead = document.createElement('thead')
     , tbody = document.createElement('tbody')
   h2.textContent = [b.title, flag ? '男子' : '女子'].join(' ')
   x = thead.appendChild(document.createElement('tr'))
-  ;['氏名', '一次会精算', '一次会受付', '二次会精算', '二次会受付', '備考'].forEach(a => {
+  ;['氏名', '一次会精算', '一次会受付', '二次会精算', '二次会受付', '備考'].forEach(function (a) {
     x.appendChild(document.createElement('th')).textContent = a
   })
-  b[flag ? 'male' : 'female'].forEach(person => {
+  b[flag ? 'male' : 'female'].forEach(function (person) {
     x = tbody.appendChild(document.createElement('tr'))
 
-    ;['name', 'first', '', 'second', '_second', ''].forEach(a => {
+    ;['name', 'first', '', 'second', '_second', ''].forEach(function (a) {
       x.appendChild(document.createElement('td')).textContent = person[a] || ''
     })
   })
@@ -66,18 +66,18 @@ proc = (flag, b) => {
   document.body.appendChild(table)
 }
 fetch('/README.md')
-.then(a => a.text())
-.then(a => a.split('\n\n# ').slice(1))
-.then(a => a.slice(0, 11).map(b => {
+.then(function (a) { return a.text() })
+.then(function (a) { return a.split('\n\n# ').slice(1) })
+.then(function (a) { return a.slice(0, 11).map(function (b) {
   var [m, f] = b.split('\n\n').map(a => a.split('\n'))
   return {
     title: m[0],
     male: m.slice(1).map(parseItem),
     female: f.map(parseItem)
   }
-}))
-.then(a => {
-  a.forEach(b => {
+})})
+.then(function (a) {
+  a.forEach(function (b) {
     proc(true, b)
     proc(false, b)
   })
