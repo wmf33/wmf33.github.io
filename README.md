@@ -344,7 +344,7 @@
 - [ ] 小野沢 高弘
 - [ ] 岸 成行
 - [ ] 窪田 徹
-- [x] 斉藤 裕之 :large_blue_diamond:
+- [x] 斉藤 裕之 :large_blue_circle:
 - [ ] 笹崎 伸司
 - [ ] 佐藤 一孝
 - [x] 佐脇 栄一
@@ -389,7 +389,7 @@
 - [ ] 大和田 修
 - [x] 鹿島 俊章
 - [ ] 菊池 和夫
-- [x] 後藤 義輝 ![][fb] :large_blue_diamond:
+- [x] 後藤 義輝 ![][fb] :large_blue_circle:
 - [x] 小林 秀雄 ![][fb] :large_blue_circle:
 - [ ] 嵯峨野 博之
 - [ ] 佐藤 政志
