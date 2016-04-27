@@ -138,7 +138,7 @@
 - [ ] 薄木 美樹
 - [x] 大貫 多恵子
 - [ ] 柿本 由美子
-- [x] 工藤 園絵 :large_blue_diamond:
+- [x] 工藤 園絵 :large_blue_circle:
 - [ ] 黒崎えり子
 - [ ] 児玉 敏江
 - [x] 嵯峨野みどり
@@ -344,7 +344,7 @@
 - [ ] 小野沢 高弘
 - [ ] 岸 成行
 - [ ] 窪田 徹
-- [x] 斉藤 裕之 :large_blue_diamond:
+- [x] 斉藤 裕之 :large_blue_circle:
 - [ ] 笹崎 伸司
 - [ ] 佐藤 一孝
 - [x] 佐脇 栄一
@@ -389,7 +389,7 @@
 - [ ] 大和田 修
 - [x] 鹿島 俊章
 - [ ] 菊池 和夫
-- [x] 後藤 義輝 ![][fb] :large_blue_diamond:
+- [x] 後藤 義輝 ![][fb] :large_blue_circle:
 - [x] 小林 秀雄 ![][fb] :large_blue_circle:
 - [ ] 嵯峨野 博之
 - [ ] 佐藤 政志
@@ -486,7 +486,7 @@
 - [ ] 斉藤 正美
 - [ ] 佐藤 茂之
 - [ ] 嶋崎 明彦
-- [x] 菅野 猛仁 :large_blue_diamond:
+- [x] 菅野 猛仁 :large_blue_circle:
 - [ ] 滝沢 剛
 - [ ] 竹山 周一
 - [ ] 対馬 清志
