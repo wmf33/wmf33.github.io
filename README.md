@@ -55,7 +55,7 @@
 - [ ] 芳賀 かよ子
 - [ ] 福島 のり子
 - [ ] 松井 理沙
-- [x] 松尾 行夏 ![][fb] :large_blue_circle: 2
+- [x] 松尾 行夏 ![][fb] :large_blue_circle: :blue_heart:
 - [ ] 宮脇 伸子
 - [x] 吉岡 和江 :large_blue_circle:
 
@@ -95,7 +95,7 @@
 - [x] 菅原 美智子
 - [ ] 武田 美香
 - [ ] 田中 さとみ
-- [x] 筒井 洋子 ![][fb] :large_blue_circle: 2
+- [x] 筒井 洋子 ![][fb] :large_blue_circle: :blue_heart:
 - [x] 常世田 悦子
 - [x] 野々山 恵美 ![][fb] :large_orange_diamond:
 - [x] 土方 明子 ![][fb]
@@ -104,7 +104,7 @@
 - [x] 村上 くに子
 - [x] 森山 寛子 :large_orange_diamond:
 - [ ] 山岸 史江
-- [x] 井上 尚美 ![][fb] :large_blue_circle: 2
+- [x] 井上 尚美 ![][fb] :large_blue_circle: :blue_heart:
 
 # 3-3
 - [x] 秋草 順夫 ![][fb] :large_blue_circle:.
@@ -145,7 +145,7 @@
 - [x] 笹岡 留美
 - [ ] 橋口 秀美
 - [ ] 原口 亜衣子
-- [x] 原 希世美 ![][fb] :large_blue_circle: 2
+- [x] 原 希世美 ![][fb] :large_blue_circle: :blue_heart:
 - [x] 本多 美奈子
 - [x] 南 早織 :large_blue_circle:
 - [x] 宮川 幹恵
@@ -356,7 +356,7 @@
 - [x] 根本 昌彦 ![][fb] :large_orange_diamond:
 - [ ] 張替 和宏
 - [x] 升本 忠宏 :large_blue_circle:
-- [x] 武藤 直 ![][fb] :large_blue_circle: 2
+- [x] 武藤 直 ![][fb] :large_blue_circle: :blue_heart:
 - [ ] 山口 晃弘
 - [ ] 井村 由喜雄
 
@@ -394,13 +394,13 @@
 - [ ] 嵯峨野 博之
 - [ ] 佐藤 政志
 - [x] 近井 良二
-- [x] 寺尾 太郎 ![][fb] :large_blue_circle: 2
+- [x] 寺尾 太郎 ![][fb] :large_blue_circle: :blue_heart:
 - [ ] 戸沢 潤一
 - [x] 仲川 武志
 - [x] 中山 恭宏 ![][fb] :large_orange_diamond:
 - [x] 西川 謙二
 - [ ] 根本 和男
-- [x] 原 敏之 ![][fb] :large_blue_circle: 2
+- [x] 原 敏之 ![][fb] :large_blue_circle: :blue_heart:
 - [ ] 藤崎 義人
 - [x] 星野 雅俊 :large_orange_diamond:
 - [ ] 松井 尚彦
@@ -470,7 +470,7 @@
 - [ ] 中川西富士子
 - [x] 仁藤 康子 :large_blue_circle:.
 - [x] 沼沢 智子 :large_blue_circle:
-- [x] 樋口 康子 ![][fb] :large_blue_circle: 2
+- [x] 樋口 康子 ![][fb] :large_blue_circle: :blue_heart:
 - [x] 平野 みゆき
 - [x] 和田 伊津子
 
@@ -493,8 +493,8 @@
 - [ ] 土橋 嘉人
 - [ ] 二宮 忍
 - [x] 沼沢 孝 :large_blue_circle:
-- [x] 丸岡 英樹 ![][fb] :large_blue_circle: 2
-- [x] 森岡 武彦 :large_blue_diamond:
+- [x] 丸岡 英樹 ![][fb] :large_blue_circle: :blue_heart:
+- [x] 森岡 武彦
 - [ ] 渡辺 満
 - [x] 和田 精一 :large_blue_circle:
 
