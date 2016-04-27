@@ -34,27 +34,23 @@ var fetch = fetch || (function (url) {
     xhr.send()
   })
 })
+, map = {
+  '': ''
+, ':large_blue_circle:' : '銀行振込 ✓'
+, ':large_blue_circle:.': 'Peatix ✓'
+, ':large_blue_diamond:': '当日'
+, ':large_orange_diamond:': '参加予定'
+}
 function parseItem(a) {
   a = a.slice(6).split(' ![][fb]').join('').split(' ')
-  var map = {
-    '': ''
-  , ':large_blue_circle:' : '銀行振込 ✓'
-  , ':large_blue_circle:.': 'Peatix ✓'
-  , ':large_blue_diamond:': '当日'
-  , ':large_orange_diamond:': '参加予定'
-  }
-  , label = map[a[2]]
-  function name(a) { return a.slice(0, 2).join(' ') }
-  function first(a) { return label === '参加予定' ? '' : label }
-  function second(a) { return label !== '参加予定' ? '' : label }
-  function aux(a) { return name(a) === '佐藤 直樹' ? '二次会から参加へ変更' : '' }
+  var label = map[a[2] || ''], name = a.slice(0, 2).join(' ')
   return [
-    name(a)
-  , first(a)
+    name
+  , label === '参加予定' ? '' : label
   , ''
-  , second(a)
+  , label !== '参加予定' ? '' : label
   , ''
-  , aux(a)
+  , name === '佐藤 直樹' ? '二次会から参加へ変更' : ''
   ]
 }
 function proc(flag, b) {
