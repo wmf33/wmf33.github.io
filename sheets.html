@@ -40,7 +40,7 @@ var fetch = fetch || (function (url) {
 , ':large_blue_circle:.': 'Peatix ✓'
 , ':large_blue_diamond:': '当日'
 , ':large_orange_diamond:': '参加予定'
-, ':blue_heart:': '✓'
+, ':blue_heart:': '手渡し ✓'
 }
 function parseItem(a) {
   a = a.slice(6)
@@ -54,7 +54,7 @@ function parseItem(a) {
     name
   , label1
   , ''
-  , name === '佐藤 直樹' ? '✓ 差額バック' : label2
+  , name === '佐藤 直樹' ? '差し替え ✓ 差額バック' : label2
   , ''
   , name === '佐藤 直樹' ? '二次会から参加へ変更' : ''
   ]
@@ -80,7 +80,7 @@ function proc(flag, b) {
   document.body.appendChild(h2)
   document.body.appendChild(table)
 }
-fetch('https://wmf33.github.io/README.md')
+fetch('/README.md')
 .then(function (a) { return a.text() })
 .then(function (a) { return a.split('\n\n# ').slice(1) })
 .then(function (a) { return a.slice(0, 11).map(function (b) {
