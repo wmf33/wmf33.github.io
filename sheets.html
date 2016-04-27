@@ -44,10 +44,10 @@ function parseItem(a) {
   , ':large_orange_diamond:': '参加予定'
   }
   , label = map[a[2]]
-  , function name(a) { return a.slice(0, 2).join(' ') }
-  , function first(a) { return label === '参加予定' ? '' : label }
-  , function second(a) { return label !== '参加予定' ? '' : label }
-  , function aux(a) { return name(a) === '佐藤 直樹' ? '二次会から参加へ変更' : '' }
+  function name(a) { return a.slice(0, 2).join(' ') }
+  function first(a) { return label === '参加予定' ? '' : label }
+  function second(a) { return label !== '参加予定' ? '' : label }
+  function aux(a) { return name(a) === '佐藤 直樹' ? '二次会から参加へ変更' : '' }
   return [
     name(a)
   , first(a)
