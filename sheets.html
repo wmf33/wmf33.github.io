@@ -42,7 +42,10 @@ var fetch = fetch || (function (url) {
 , ':large_orange_diamond:': '参加予定'
 }
 function parseItem(a) {
-  a = a.slice(6).split(' ![][fb]').join('').split(' ')
+  a = a.slice(6)
+  .split(' ![][fb]').join('')
+  .split(' (故人)').join('')
+  .split(' ')
   var label = map[a[2] || ''], name = a.slice(0, 2).join(' ')
   return [
     name
