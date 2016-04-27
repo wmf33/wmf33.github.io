@@ -21,27 +21,41 @@ th,td:last-child {
 }
 </style>
 <script>
-function parseFirst(a) {
-  return a === ':large_blue_circle:'
-  ? '銀行振込 ✓'
-  : a === ':large_blue_circle:.'
-  ? 'Peatix ✓'
-  : a === ':large_blue_diamond:'
-  ? '当日'
-  : ''
-}
-function parseSecond(a) {
-  return a === ':large_orange_diamond:'
-  ? '参加予定'
-  : ''
-}
+fetch || (fetch = function (url) {
+  return new Promise(function (resolve, reject) {
+    var xhr = new XMLHttpRequest()
+    xhr.open('GET', url)
+    xhr.onload = function () {
+      var value = this.responseText
+      resolve({
+        text: function () { return Promise.resolve(value) }
+      })
+    }
+    xhr.send()
+  })
+})
 function parseItem(a) {
   a = a.slice(6).split(' ![][fb]').join('').split(' ')
-  return {
-    name: a.slice(0, 2).join(' '),
-    first: parseFirst(a[2]),
-    second: parseSecond(a[2])
+  var map = {
+    '': ''
+  , ':large_blue_circle:' : '銀行振込 ✓'
+  , ':large_blue_circle:.': 'Peatix ✓'
+  , ':large_blue_diamond:': '当日'
+  , ':large_orange_diamond:': '参加予定'
   }
+  , label = map[a[2]]
+  , name = (a) => a.slice(0, 2).join(' ')
+  , first = (a) => label === '参加予定' ? '' : label
+  , second = (a) => label !== '参加予定' ? '' : label
+  , aux = (a) => name(a) === '佐藤 直樹' ? '二次会から参加へ変更' : ''
+  return [
+    name(a)
+  , first(a)
+  , ''
+  , second(a)
+  , ''
+  , aux(a)
+  ]
 }
 function proc(flag, b) {
   var x, h2 = document.createElement('h2')
@@ -55,9 +69,8 @@ function proc(flag, b) {
   })
   b[flag ? 'male' : 'female'].forEach(function (person) {
     x = tbody.appendChild(document.createElement('tr'))
-
-    ;['name', 'first', '', 'second', '_second', ''].forEach(function (a) {
-      x.appendChild(document.createElement('td')).textContent = person[a] || ''
+    person.forEach(function (a) {
+      x.appendChild(document.createElement('td')).textContent = a
     })
   })
   table.appendChild(thead)
