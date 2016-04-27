@@ -44,10 +44,10 @@ function parseItem(a) {
   , ':large_orange_diamond:': '参加予定'
   }
   , label = map[a[2]]
-  , name = (a) => a.slice(0, 2).join(' ')
-  , first = (a) => label === '参加予定' ? '' : label
-  , second = (a) => label !== '参加予定' ? '' : label
-  , aux = (a) => name(a) === '佐藤 直樹' ? '二次会から参加へ変更' : ''
+  , function name(a) { return a.slice(0, 2).join(' ') }
+  , function first(a) { return label === '参加予定' ? '' : label }
+  , function second(a) { return label !== '参加予定' ? '' : label }
+  , function aux(a) { return name(a) === '佐藤 直樹' ? '二次会から参加へ変更' : '' }
   return [
     name(a)
   , first(a)
@@ -82,7 +82,7 @@ fetch('/README.md')
 .then(function (a) { return a.text() })
 .then(function (a) { return a.split('\n\n# ').slice(1) })
 .then(function (a) { return a.slice(0, 11).map(function (b) {
-  var [m, f] = b.split('\n\n').map(a => a.split('\n'))
+  var [m, f] = b.split('\n\n').map(function (a) { return a.split('\n') })
   return {
     title: m[0],
     male: m.slice(1).map(parseItem),
