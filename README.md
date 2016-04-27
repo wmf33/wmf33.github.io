@@ -145,7 +145,7 @@
 - [x] 笹岡 留美
 - [ ] 橋口 秀美
 - [ ] 原口 亜衣子
-- [x] 原 希世美 ![][fb] :large_blue_circle:
+- [x] 原 希世美 ![][fb] :large_blue_circle: 2
 - [x] 本多 美奈子
 - [x] 南 早織 :large_blue_circle:
 - [x] 宮川 幹恵
@@ -356,7 +356,7 @@
 - [x] 根本 昌彦 ![][fb] :large_orange_diamond:
 - [ ] 張替 和宏
 - [x] 升本 忠宏 :large_blue_circle:
-- [x] 武藤 直 ![][fb] :large_blue_circle:
+- [x] 武藤 直 ![][fb] :large_blue_circle: 2
 - [ ] 山口 晃弘
 - [ ] 井村 由喜雄
 
@@ -400,7 +400,7 @@
 - [x] 中山 恭宏 ![][fb] :large_orange_diamond:
 - [x] 西川 謙二
 - [ ] 根本 和男
-- [x] 原 敏之 ![][fb] :large_blue_circle:
+- [x] 原 敏之 ![][fb] :large_blue_circle: 2
 - [ ] 藤崎 義人
 - [x] 星野 雅俊 :large_orange_diamond:
 - [ ] 松井 尚彦
@@ -493,7 +493,7 @@
 - [ ] 土橋 嘉人
 - [ ] 二宮 忍
 - [x] 沼沢 孝 :large_blue_circle:
-- [x] 丸岡 英樹 ![][fb] :large_blue_circle:
+- [x] 丸岡 英樹 ![][fb] :large_blue_circle: 2
 - [x] 森岡 武彦 :large_blue_diamond:
 - [ ] 渡辺 満
 - [x] 和田 精一 :large_blue_circle:
