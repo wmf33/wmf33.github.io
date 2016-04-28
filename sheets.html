@@ -41,13 +41,21 @@ function parseItem(a) {
   var name = a.slice(0, 2).join(' ')
   , label1 = map[a[2] || '']
   , label2 = map[a[3] || '']
+  , aux = ''
+  if (label1 === '参加予定') {
+    label2 = label1; label1 = ''
+  }
+  if (name === '佐藤 直樹') {
+    label2 = '差し替え ✓ 差額バック'
+    aux = '二次会から参加へ変更'
+  }
   return [
     name
   , label1
   , ''
-  , name === '佐藤 直樹' ? '差し替え ✓ 差額バック' : label2
+  , label2
   , ''
-  , name === '佐藤 直樹' ? '二次会から参加へ変更' : ''
+  , aux
   ]
 }
 function proc(flag, b) {
