@@ -58,7 +58,7 @@
 - [ ] 松井 理沙
 - [x] 松尾 行夏 ![][fb] :large_blue_circle: :blue_heart:
 - [ ] 宮脇 伸子
-- [x] 吉岡 和江 :large_blue_circle:
+- [x] 吉岡 和江 ![][fb] :large_blue_circle:
 
 # 3-2
 - [x] 秋吉 隆浩 :large_orange_diamond:
@@ -90,7 +90,7 @@
 - [x] 大村 昭子
 - [x] 勝本 弘子 ![][fb]
 - [x] 黒沼 悦子 ![][fb] :large_blue_circle:.
-- [x] 小口 郁江 :large_blue_circle:
+- [x] 小口 郁江 ![][fb] :large_blue_circle:
 - [x] 小西 恵美 :large_blue_circle:
 - [x] 坂戸 久美子 :large_orange_diamond:
 - [x] 菅原 美智子
@@ -139,7 +139,7 @@
 - [ ] 薄木 美樹
 - [x] 大貫 多恵子
 - [ ] 柿本 由美子
-- [x] 工藤 園絵 :large_blue_circle:
+- [x] 工藤 園絵 ![][fb] :large_blue_circle:
 - [ ] 黒崎えり子
 - [ ] 児玉 敏江
 - [x] 嵯峨野みどり
@@ -197,7 +197,7 @@
 - [ ] 松田 千春
 - [ ] 松山 和江
 - [x] 宮川 明美 :large_blue_circle:
-- [x] 森 智子 :large_blue_circle:
+- [x] 森 智子 ![][fb] :large_blue_circle:
 
 # 3-5
 - [x] 青山 勝昭 :large_blue_circle:
@@ -228,7 +228,7 @@
 - [ ] 石川 明代
 - [ ] 井上 敏子
 - [ ] 川原 繁美
-- [x] 菊池 淑子 :large_blue_circle:
+- [x] 菊池 淑子 ![][fb] :large_blue_circle:
 - [x] 木村 智美 :large_blue_diamond:
 - [ ] 佐々木 昭子
 - [x] 佐藤 美智子
@@ -279,7 +279,7 @@
 - [ ] 園田 真由美
 - [ ] 高木 晴美
 - [x] 竹原 明子 :large_blue_circle:
-- [x] 田代 貴子
+- [x] 田代 貴子 ![][fb]
 - [x] 田辺 暁美 ![][fb] :large_blue_circle:
 - [x] 筑田 未夏 :large_blue_circle:
 - [ ] 藤堂 美花子
@@ -326,7 +326,7 @@
 - [ ] 佐藤 恵美子 (故人)
 - [x] 佐藤 ちとせ :large_blue_circle:
 - [x] 下川 たまみ
-- [x] 田口 由加里 :large_blue_circle:
+- [x] 田口 由加里 ![][fb] :large_blue_circle:
 - [x] 徳田 恵美
 - [ ] 中里 喜代子
 - [x] 中島 真由美
@@ -385,7 +385,7 @@
 
 # 3-9
 - [ ] 相沢 寛
-- [x] 阿部 敦 :large_orange_diamond:
+- [x] 阿部 敦 ![][fb] :large_orange_diamond:
 - [x] 氏家 秀光
 - [ ] 大和田 修
 - [x] 鹿島 俊章
