@@ -273,7 +273,7 @@
 - [x] 飯野 幸恵 :large_blue_circle:
 - [ ] 荻野 京子
 - [x] 小沢 明子 :large_blue_circle:
-- [x] 金井 加代子 :large_blue_circle:
+- [x] 金井 加代子 ![][fb] :large_blue_circle:
 - [ ] 管 真由美
 - [x] 須田 幸子 :large_blue_circle:
 - [ ] 園田 真由美
