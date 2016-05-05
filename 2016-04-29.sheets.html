@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width">
+<meta charset="UTF-8">
+<title>川崎市立西中原中学校第33期同窓会</title>
+<style>
+h2 { page-break-before: always; }
+th, td { width: 25vw; }
+thead tr                 { background-color: black; color: white; }
+tbody tr:nth-child(2n)   { background-color: white; }
+tbody tr:nth-child(2n+1) { background-color: #e0e0e0; }
+</style>
+<script>
+var fetch = fetch || (function (url) {
+  return new Promise(function (resolve, reject) {
+    var xhr = new XMLHttpRequest()
+    xhr.open('GET', url)
+    xhr.onload = function () {
+      var value = this.responseText
+      resolve({
+        text: function () { return Promise.resolve(value) }
+      })
+    }
+    xhr.send()
+  })
+})
+, map = {
+  '': ''
+, ':large_blue_circle:' : '銀行振込 ✓'
+, ':large_blue_circle:.': 'Peatix ✓'
+, ':large_blue_diamond:': '当日'
+, ':large_orange_diamond:': '参加予定'
+, ':blue_heart:': '手渡し ✓'
+}
+function parseItem(a) {
+  a = a.slice(6)
+  .split(' ![][fb]').join('')
+  .split(' (故人)').join('')
+  .split(' ')
+  var name = a.slice(0, 2).join(' ')
+  , label1 = map[a[2] || '']
+  , label2 = map[a[3] || '']
+  , aux = ''
+  if (label1 === '参加予定') {
+    label2 = label1; label1 = ''
+  }
+  if (name === '佐藤 直樹') {
+    label2 = '差し替え ✓ 差額バック'
+    aux = '二次会から参加へ変更'
+  }
+  return [
+    name
+  , label1
+  , ''
+  , label2
+  , ''
+  , aux
+  ]
+}
+function proc(flag, b) {
+  var x, h2 = document.createElement('h2')
+    , table = document.createElement('table')
+    , thead = document.createElement('thead')
+    , tbody = document.createElement('tbody')
+  h2.textContent = [b.title, flag ? '男子' : '女子'].join(' ')
+  x = thead.appendChild(document.createElement('tr'))
+  ;['氏名', '一次会精算', '一次会受付', '二次会精算', '二次会受付', '備考'].forEach(function (a) {
+    x.appendChild(document.createElement('th')).textContent = a
+  })
+  b[flag ? 'male' : 'female'].forEach(function (person) {
+    x = tbody.appendChild(document.createElement('tr'))
+    person.forEach(function (a) {
+      x.appendChild(document.createElement('td')).textContent = a
+    })
+  })
+  table.appendChild(thead)
+  table.appendChild(tbody)
+  document.body.appendChild(h2)
+  document.body.appendChild(table)
+}
+fetch('/2016-04-29.README.md')
+.then(function (a) { return a.text() })
+.then(function (a) { return a.split('\n\n# ').slice(1) })
+.then(function (a) { return a.slice(0, 11).map(function (b) {
+  var [m, f] = b.split('\n\n').map(function (a) { return a.split('\n') })
+  return {
+    title: m[0],
+    male: m.slice(1).map(parseItem),
+    female: f.map(parseItem)
+  }
+})})
+.then(function (a) {
+  a.forEach(function (b) {
+    proc(true, b)
+    proc(false, b)
+  })
+})
+</script>
