@@ -104,7 +104,7 @@
 - [x] 村上 くに子
 - [x] 森山 寛子 `2016-04-29` :two: :microphone:
 - [ ] 山岸 史江
-- [x] __井上 尚美__ ![][fb] `2016-04-29` :one: :two: :microphone:
+- [x] __井上 尚美__ ![][fb] `2016-04-29` :one: :two: :microphone: :four:
 
 # 3-3
 - [x] __秋草 順夫__ ![][fb] `2016-04-29` :one: :two: :microphone:
