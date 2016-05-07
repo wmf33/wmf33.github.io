@@ -12,7 +12,7 @@
 - :two: 二次会参加 [ホテル精養軒](https://goo.gl/maps/7Qzd4CRYq3D2)
 - :microphone: 三次会参加(カラオケ組) [コート・ダジュール 武蔵小杉北口店](https://goo.gl/maps/R51Knh8xmrC2)
 - :beers: 三次会参加(飲み組) [どこだろう？](https://www.google.com)
-- :four: 四次会参加 [新城の居酒屋さん](https://www.google.com)
+- :four: 四次会参加 [はなの舞 武蔵新城店](https://goo.gl/maps/f8dy5HwszSC2)
 
 # 3-1
 - [ ] 安藤 光男
