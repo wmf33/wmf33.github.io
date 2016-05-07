@@ -1,6 +1,6 @@
 ### リストについて
 - 内容を随時アップデートしています
-  - 修正依頼歓迎！[メール](mailto:taro.terao@gamil.com)でも[facebook](https://www.facebook.com/taro.terao)でも連絡を
+  - 修正依頼歓迎！（[メール](mailto:taro.terao@gamil.com)でも[facebook](https://www.facebook.com/taro.terao)でも）
 - 姓名の表記は卒業時のものです
 - 到達可能性
   - [x] 連絡が取れる
