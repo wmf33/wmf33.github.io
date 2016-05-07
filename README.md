@@ -1,12 +1,12 @@
 ### リストについて
 - 内容を随時アップデートしています
-  - 修正依頼歓迎！[メール](mailto:taro.terao@gamil.com)でも[facebook](https://www.facebook.com/taro.terao)でも連絡してね
+  - 修正依頼歓迎！[メール](mailto:taro.terao@gamil.com)でも[facebook](https://www.facebook.com/taro.terao)でも連絡を
 - 姓名の表記は卒業時のものです
 - 到達可能性
   - [x] 連絡が取れる
   - [ ] 連絡が取れない
 - ![][fb] __wmf33__ のメンバー
-  - プライバシー・セキュリティには気を使っていてかなり安全なはずです
+  - プライバシー・セキュリティには気を使っていてかなり安全なはず
 - `2016-04-29` [50歳記念大同窓会](https://youtu.be/nKRteGkaig0)
 - :one: 一次会参加 [ホテル精養軒](https://goo.gl/maps/7Qzd4CRYq3D2)
 - :two: 二次会参加 [ホテル精養軒](https://goo.gl/maps/7Qzd4CRYq3D2)
