@@ -8,7 +8,7 @@
 - ![][fb] __wmf33__ のメンバー
   - 秘密のグループです
   - プライバシー・セキュリティをリスペクト
-- `2016-04-29` [35周年記念大同窓会](https://youtu.be/nKRteGkaig0)
+- `2016-04-29` [35周年記念大同窓会](https://youtu.be/nKRteGkaig0) ![][youtube]
 - :one: 一次会参加 [ホテル精養軒](https://goo.gl/maps/7Qzd4CRYq3D2)
 - :two: 二次会参加 [ホテル精養軒](https://goo.gl/maps/7Qzd4CRYq3D2)
 - :microphone: 三次会参加(カラオケ組) [コート・ダジュール 武蔵小杉北口店](https://goo.gl/maps/R51Knh8xmrC2)
@@ -551,3 +551,4 @@
 - [x] 長村 信幸 1-9
 
 [fb]: https://www.facebook.com/favicon.ico
+[youtube]: https://www.youtube.com/favicon.ico
