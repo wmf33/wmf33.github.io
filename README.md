@@ -8,7 +8,8 @@
 - ![][fb] __wmf33__ のメンバー
   - 秘密のグループです
   - プライバシー・セキュリティをリスペクト
-- `2016-06-28` 2016年上期お誕生日会 [お好み焼き たまぢゅう亭](https://goo.gl/maps/6UcTgEoRmUL2)
+- `2016-06-28` 2016年上期お誕生日会
+  - [お好み焼き たまぢゅう亭](https://goo.gl/maps/6UcTgEoRmUL2)
 - `2016-04-29` [35周年記念大同窓会](https://youtu.be/nKRteGkaig0) ![][youtube]
   - :one: 一次会参加 [ホテル精養軒](https://goo.gl/maps/7Qzd4CRYq3D2)
   - :two: 二次会参加 [ホテル精養軒](https://goo.gl/maps/7Qzd4CRYq3D2)
