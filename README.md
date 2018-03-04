@@ -10,7 +10,7 @@
   - プライバシー・セキュリティをリスペクト
 - `2018-03-03` 創立70周年記念大同窓会の後の懇親会♡
   - 一次会 [すっとこどっこい武蔵新城店](https://goo.gl/maps/HtqkBcbsSC82)
-  - 二次会 [JEANS 703](https://goo.gl/maps/o8oYoFrTwfE2)
+  - 二次会 [Music Bar JEANS 703](https://goo.gl/maps/o8oYoFrTwfE2)
 - `2016-06-28` 2016年上期お誕生日会
   - [お好み焼き たまぢゅう亭](https://goo.gl/maps/6UcTgEoRmUL2)
 - `2016-04-29` [35周年記念大同窓会](https://youtu.be/nKRteGkaig0) ![][youtube]
